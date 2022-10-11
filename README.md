@@ -1,7 +1,8 @@
 # 100DaysOfCode
 ## MERN Stack
 I'm publicly committing to the 100DaysOfCode Challenge. I'll be learning MERN Stack in these 100 days and will try to be consistent.  
-https://100DaysOfCode.com #100DaysOfCode
+Connect with me on Twitter: https://twitter.com/ParthPanjwani 
+#100DaysOfCode
 ## 
 Day-1 
 - Revised HTML basics
